@@ -17,19 +17,21 @@
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Параметър 1 | Параметър 1 
-RAM | Параметър 2 | Параметър 2
-GPU | Параметър 3 | Параметър 3
-Disk | Параметър 4 | Параметър 4
-Other | параметър 5 |  параметър 5 
+CPU | Intel or AMD processor with 64-bit | Шестядрен Intel Core i5-9400F
+RAM | 8 GB | 8 GB DDR4 2666 MHz
+GPU | 2 GB of GPU memory | NVIDIA GeForce GTX 1650 4GB
+Disk | 4 GB | 1 TB
+Link | https://ardes.bg/product/acer-nitro-n50-600-tower-dg-e0hex-017-w10p-150584
+Other | Microsoft Windows 10 |  Windows 10 Professional
 
 
 2. Adobe Premiere - бюджет 3000 лв. 
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Параметър 1 | Параметър 1 
-RAM | Параметър 2 | Параметър 2
-GPU | Параметър 3 | Параметър 3
-Disk | Параметър 4 | Параметър 4
-Other | параметър 5 |  параметър 5 
+CPU | Intel Core™ i3, i5 or i7 | Intel Core i7-10700 (2.9/4.8 GHz, 16M)
+RAM | 4 GB | 16GB DDR4 2666 MHz
+GPU | 2 GB of GPU | NVIDIA GeForce GTX 1660 Super 6GB
+Disk | 24,3 GB | 2 TB
+Link | https://ardes.bg/product/msi-mpg-trident-3-arctic-10si-015eu-9s6-b93212-015-199869
+Other | Microsoft Windows 10 (64-bit) |  Windows 10 Home 64bit 
