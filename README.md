@@ -17,7 +17,7 @@
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Intel or AMD processor with 64-bit | Шестядрен Intel Core i5-9400F
+CPU | Intel Core™ i5 or i7 | Шестядрен Intel Core i5-9400F
 RAM | 8 GB | 8 GB DDR4 2666 MHz
 GPU | 2 GB of GPU memory | NVIDIA GeForce GTX 1650 4GB
 Disk | 4 GB | 1 TB
